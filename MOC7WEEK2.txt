@@ -1,0 +1,9 @@
+A type of consequentialism, where decisions and actions are evaluated as morally good or bad according to the consequences they bring about
+An ethical framework based on the utility principle
+True
+It means that it has navigation, exploration and attack capabilities and does not require continuous human supervision
+The type of control for which the human controller must have enough information and time to intervene on the autonomous systems
+A concept proposed in the last years as a necessary condition for the responsible employment of autonomous weapon systems
+True
+to consider both the numerical value of their environmental impact and their social value
+To guarantee the confidentiality, integrity, and availability of information
