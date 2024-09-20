@@ -9,7 +9,7 @@ Lack of clarity in the code of ethics
 Plain language
 Prescriptive language
 The pilot phase demonstrates the seriousness of the organization with respect to its ethical responsibilities.
-It allows you to capture the evolving nature of the ethical risks of the product or service that you are developing. 
+It allows you to capture the evolving nature of the ethical risks of the product or service that you are developing.
 Integrating the code of ethics deeply into the existing workflows within the organization.
 It compels employees to operate in an ethical and integral manner.
 It creates consistency in the ethical practices across the organization, rather than patchy implementation of the practices.
